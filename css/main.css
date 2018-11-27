@@ -4,6 +4,7 @@ a {
 	color:#EF8737;
 }
 
+
 nav a{
 		color: white;
 }
@@ -38,7 +39,7 @@ logo {
 }
 
 nav a.selected, nav a:hover{
-	color: #EF781D;
+	color: #b36b00;
 }
 
 body{
@@ -137,4 +138,16 @@ About
 }
 .twitter a{
 	background-image: url('../img/twitter.png');
+}
+#example{
+	color: white;
+	border: 2px solid red;
+    border-radius: 25px;
+	background-color: #EF8737;	
+}
+div span{
+	border: 2px solid red;
+    border-radius: 25px;
+	padding: 2px 10px 2px 10px;
+	background: white;
 }
