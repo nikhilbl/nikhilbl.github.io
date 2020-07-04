@@ -1555,7 +1555,7 @@ pre {
 
 @media (max-width: 575.98px) {
   .header-section-height{
-    max-height: 200px !important;
+    max-height: 150px !important;
   }
   .table-responsive-sm {
     display: block;
@@ -8973,11 +8973,12 @@ textarea.form-control {
   border-radius: 50%; }
 
 .ftco-section {
-  padding: 6em 0;
+  padding: 6em 0; 
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 1em 0 6em 0;
+    } }
 
 .ftco-no-pt {
   padding-top: 0; }
